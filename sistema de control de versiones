@@ -1,0 +1,9 @@
+sistema de control de versiones 
+
+git : 
+github: aplicacion que abraza a git
+	es una red social de programadores 
+	base de datos atomicas (solo actualiza el codigo cambiado)
+	solo soporta archivos de menos de 10 megas 
+	se puede ver quien modifico el codigo
+	
